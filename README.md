@@ -1,5 +1,5 @@
 # Sistema-Registros
-(Um trabalho por filipe e hernique feito nas aulas de POOII)
+
 ° Cadastro de Usuários: Os usuários podem criar uma conta fornecendo um nome de usuário, login e senha.
 
 ° Login de Usuários: Os usuários já cadastrados podem acessar o sistema utilizando seu login e senha.
